@@ -1,0 +1,16 @@
+
+state={
+	id=5
+	name="STATE_5"
+	provinces={
+		923 7093 9416 9783 9976 10111 11623 11628 11633 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+
+	history = {
+		owner = BRO
+	}
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=7
+	name="STATE_7"
+	provinces={
+		769 3859 4004 4500 5858 
+	}
+
+	history={
+		owner = UST
+
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

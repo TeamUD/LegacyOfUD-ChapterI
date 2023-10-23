@@ -1,0 +1,10 @@
+state={
+	id=100
+	name="STATE_100"
+	provinces={
+		2262 8708 8788 8803 8979 9480 9564 9949 9969 10102 10366 
+	}
+	manpower=1000
+	state_category=rural
+	local_supplies=0.000
+}

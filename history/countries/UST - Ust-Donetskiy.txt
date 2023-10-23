@@ -1,0 +1,68 @@
+capital = 10393
+
+#set_oob = "UST_1936_nsb"
+
+starting_train_buffer = 2
+set_fuel_ratio = 0.7
+
+set_research_slots = 4
+set_convoys = 0
+set_stability = 0.1
+set_war_support = 0.1
+
+set_politics = {
+	ruling_party = egorism
+	last_election = "1933.4.5"
+	election_frequency = 96
+	elections_allowed = no
+}
+set_popularities = {
+	egorism = 100
+}
+
+add_ideas = {
+	closed_economy
+	civilian_economy
+	disarmed_nation
+}
+
+# COUNTRY LEADER
+#recruit_character = UST_interim_council
+#recruit_character = UST_egor
+#recruit_character = UST_nikitus
+#recruit_character = UST_agarkoff
+#recruit_character = UST_david
+
+# FIELDMARCHAL
+#recruit_character = UST_kusya
+#recruit_character = UST_artem_k
+#recruit_character = UST_kirill
+#recruit_character = UST_ruslan
+#recruit_character = UST_sanya_k
+#recruit_character = UST_artem_n
+
+# GENERAL
+#recruit_character = UST_sanya_b
+#recruit_character = UST_misha 
+#recruit_character = UST_nekit
+#recruit_character = UST_nikita
+#recruit_character = UST_timur
+#recruit_character = UST_vladik
+#recruit_character = UST_arkasha
+#recruit_character = UST_artem_g
+#recruit_character = UST_evsey
+#recruit_character = UST_masanya
+
+# NAVAL GENERAL
+#recruit_character = UST_donel
+#recruit_character = UST_ksuha
+#recruit_character = UST_karas
+#recruit_character = UST_coshalot
+
+# ADVISOR
+#recruit_character = UST_sovec
+#recruit_character = UST_pehlik
+
+# FUNNY
+#recruit_character = UST_ryan_gosler
+#recruit_character = UST_ilon_mask

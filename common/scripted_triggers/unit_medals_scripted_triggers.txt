@@ -1,0 +1,5 @@
+should_have_any_unique_medals_trigger = {
+	OR = {
+
+	}
+}

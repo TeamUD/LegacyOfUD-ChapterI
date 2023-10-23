@@ -1,0 +1,11 @@
+
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		3516 3740 4242 4281 4594 5878 5900 5986 6151 6443 6845 6921 7049 7251 7601 7629 7757 7948 8353 
+	}
+	manpower=1000
+	state_category=rural
+	local_supplies=0.000
+}

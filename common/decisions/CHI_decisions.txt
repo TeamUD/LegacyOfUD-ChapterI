@@ -1,0 +1,4 @@
+
+
+#Category only allowed for CHI
+CHI_anti_imperialism = {}

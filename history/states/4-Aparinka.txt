@@ -1,0 +1,16 @@
+
+state={
+	id=4
+	name="STATE_4"
+	provinces={
+		1100 1889 2145 8896 9389 10386 10621 11630 11632 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+
+	history = {
+		owner = APA
+	}
+}

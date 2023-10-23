@@ -1,0 +1,21 @@
+
+state={
+	id=2
+	name="STATE_2"
+
+	history={
+		owner = UST
+		victory_points = {
+			10329 60 
+		}
+
+	}
+
+	provinces={
+		9765 9938 10271 10329 10393 10442 10595 11627 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
