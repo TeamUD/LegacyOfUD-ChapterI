@@ -1,0 +1,13 @@
+state={
+	id=14
+	name="STATE_14"
+	provinces={
+		704 3302 3366 3412 3418 3425 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	history = {
+		owner = ADM
+	}
+}

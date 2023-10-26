@@ -98,3 +98,12 @@
 # on_operative_recruited
 # on_fully_decrypted_cipher
 # on_activated_active_decryption_bonuses
+
+## MIO
+# on_mio_size_increased
+# on_mio_design_team_assigned_to_tech
+# on_mio_design_team_assigned_to_variant
+# on_mio_industrial_manufacturer_assigned
+# on_mio_tech_reseach_cancelled
+# on_mio_tech_reseach_completed
+# on_mio_industrial_manufacturer_unassigned

@@ -1,8 +1,15 @@
+
 state={
 	id=2
 	name="STATE_2"
+
+	history={
+		owner = ING
+
+	}
+
 	provinces={
-		933 
+		3443 3444 3454 3468 3475 3486 3516 3548 3556 3620 3623 3632 3735 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

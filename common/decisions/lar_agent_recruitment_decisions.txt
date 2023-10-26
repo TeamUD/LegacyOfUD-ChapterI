@@ -58,10 +58,17 @@ lar_local_recruitment = {
 			
 		}
 
-		state_target = yes
+		target_root_trigger = {
+			OR = {
+				has_country_flag = europe_recruitment_unlocked
+				capital_scope = { is_on_continent = europe }
+			}
+			NOT = { has_country_flag = europe_recruitment_in_process }
+		}
+
+		state_target = europe
 		target_trigger = {
 			FROM = {
-				is_on_continent = europe
 				OR = {
 					AND = {
 						has_variable = historical_capital_for_country

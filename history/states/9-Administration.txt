@@ -1,0 +1,15 @@
+
+state={
+	id=9
+	name="STATE_9"
+	provinces={
+		2792 3359 3388 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+
+	history = {
+		owner = ADM
+	}
+}

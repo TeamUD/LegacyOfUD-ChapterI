@@ -2,10 +2,16 @@
 state={
 	id=1
 	name="STATE_1"
-	provinces={
-		828 841 848 1199 
+
+	history={
+		owner = LEN
+
 	}
-	manpower=0
+
+	provinces={
+		828 841 848 1199 3338 3345 3354 3358 3364 3382 3389 3404 3595 3653 3658 3711 3725 3728 
+	}
+	manpower=500
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

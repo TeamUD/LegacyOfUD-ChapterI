@@ -1,3 +1,10 @@
+SAD = "countries/Sadovcy.txt"
+LEN = "countries/Lenincy.txt"
+ING = "countries/Ingenercy.txt"
+ADM = "countries/Administration.txt"
+AVA = "countries/Avako.txt"
+AGA = "countries/Agarkovy.txt"
+
 UST = "countries/Ust-Donetskiy.txt"
 APA = "countries/Aparinka.txt"
 BRO = "countries/Bronchika.txt"

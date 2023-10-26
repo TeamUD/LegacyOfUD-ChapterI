@@ -1,0 +1,14 @@
+state={
+	id=48
+	name="STATE_48"
+	provinces={
+		3442 3447 3461 3476 3495 3497 3512 3524 3525 3528 3537 3540 3543 3544 3547 3553 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+
+	history = {
+		owner = AGA
+	}
+}

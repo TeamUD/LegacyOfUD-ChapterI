@@ -1,0 +1,17 @@
+
+state={
+	id=8
+	name="STATE_8"
+
+	history={
+		owner = SAD
+
+	}
+
+	provinces={
+		958 3316 3357 3674 3707 
+	}
+	manpower=500
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
